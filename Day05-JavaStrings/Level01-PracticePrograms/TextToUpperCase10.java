@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TextToUpperCase9 {
+public class TextToUpperCase10 {
 
     // Method to convert lowercase alphabets to uppercase using charAt
     public static String convertToUpperCase(String text) {

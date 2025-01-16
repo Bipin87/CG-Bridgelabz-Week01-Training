@@ -47,9 +47,9 @@ public class CompareTwoArray{
 		
 		int length = str.length();
 		
-		boolean ComapreResult = CompareArray(arrayFromBuiltIn, arrayFromMethod,length);
+		boolean comapreResult = CompareArray(arrayFromBuiltIn, arrayFromMethod,length);
 		
-		if(ComapreResult){
+		if(comapreResult){
 			System.out.println("Both arrays are equal");
 		}
 		else{

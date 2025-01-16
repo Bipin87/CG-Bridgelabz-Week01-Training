@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConvertTheStringLowerCase {
+public class ConvertTheStringLowerCase9 {
 
     // Method to convert uppercase alphabets into lowercase letters
     public static String convertToLowerCase(String text) {
